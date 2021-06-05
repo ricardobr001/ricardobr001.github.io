@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.7f909e4b.chunk.js",
+    "main.js.map": "/static/js/main.7f909e4b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.958cec56.js",
+    "runtime-main.js.map": "/static/js/runtime-main.958cec56.js.map",
+    "static/css/2.a641e29a.chunk.css": "/static/css/2.a641e29a.chunk.css",
+    "static/js/2.51ae501b.chunk.js": "/static/js/2.51ae501b.chunk.js",
+    "static/js/2.51ae501b.chunk.js.map": "/static/js/2.51ae501b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4e15622ecf004cf51ce7085c7ff78ee1.js": "/precache-manifest.4e15622ecf004cf51ce7085c7ff78ee1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a641e29a.chunk.css.map": "/static/css/2.a641e29a.chunk.css.map",
+    "static/media/cv-en.pdf": "/static/media/cv-en.cf7beb35.pdf",
+    "static/media/cv-pt.pdf": "/static/media/cv-pt.9a6eb1d8.pdf",
+    "static/media/me.jpeg": "/static/media/me.d4b60d3b.jpeg",
+    "static/media/rockbandnotfound.png": "/static/media/rockbandnotfound.2fa9bea4.png",
+    "static/media/wolf.jpg": "/static/media/wolf.1e3fc0bb.jpg"
+  }
+}
